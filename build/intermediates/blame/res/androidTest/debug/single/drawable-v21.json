@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

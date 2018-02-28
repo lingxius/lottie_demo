@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhukongkang/Desktop/work/code/live-me-android/bloodeye/lottie/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zhukongkang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/1aa363dd14d99a2e8541027f76c4a51e/res/anim/abc_fade_in.xml"
+    }
+]
